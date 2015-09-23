@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-2d3ff91aa644fa35cf526d80282160a501ea8cf7.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-e4b5007cd43f88ccace13f504ec0ae699c3aab1b.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-0ba23d30e82ca3f6e12a064da746f3a00bb0b6ca.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-1297a4265ada37401987f0a5fabe5c5a49bf1feb.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-4c5800114ae5dae6e81d97f069c9fa945578e9af.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-1cb6f44d241ad97016d57f8a34a1bb52f166316e.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-d6907bf48534815fd1582c6da24fd771ba5b58e9.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-51b80241b1d6a9c6d2847bbdaa3fac2aa5a8d0b7.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-ae3658887e8b2f9deab7a91859bc35fea1689f66.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-63261c06cd5ea679e3d63bfaa6a55d6c1cfe91c8.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-dbcca2285688f4d15d62c1b22ce4399be6078b90.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-f80ac449f13cebdbb34dada17fd74f557aa70a74.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-bbf596f88eff068ca063e1cdd28dc2ee1a0bc8b5.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-d7840330e8fd27f05be8abb8797e6659435dab8e.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-2b04c9bf9adc20e663fc967da446f80e20723ff7.jar" />
+    </item>
+    <item
+        jar="D:\androids\Yuanlaixian\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\androids\Yuanlaixian\app\build\intermediates\pre-dexed\debug\classes-4f4fd105e368c5c50d6515582f16649f020af9f2.jar" />
+    </item>
+
+</items>

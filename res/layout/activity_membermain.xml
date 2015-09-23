@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@drawable/border_bottom">
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:scaleType="centerInside"
+            android:layout_marginLeft="7dp"
+            android:id="@+id/return_bg"
+            android:src="@drawable/icon_return"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="返回"
+            android:layout_toRightOf="@+id/return_bg"
+            android:layout_centerVertical="true"
+            android:textColor="#595656"
+            android:layout_marginLeft="4dp"
+            android:textSize="12dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="#595656"
+            android:textSize="14dp"
+            android:text="个人中心" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/public_buttom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"></FrameLayout>
+
+</RelativeLayout>

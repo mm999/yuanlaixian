@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/border_bottom" >
+
+            <ImageView
+                android:id="@+id/return_bg"
+                android:layout_width="10dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/icon_return" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="4dp"
+                android:layout_toRightOf="@+id/return_bg"
+                android:text="返回"
+                android:textColor="#595656"
+                android:textSize="12sp"
+                android:id="@+id/return_activity" />
+
+            <ImageView
+                android:id="@+id/search_bg"
+                android:layout_width="21dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="7dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/icon_sel" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/catearr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/subcate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/goods_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/linearLayout1" >
+        </ListView>
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/public_buttom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+    </FrameLayout>
+
+</RelativeLayout>

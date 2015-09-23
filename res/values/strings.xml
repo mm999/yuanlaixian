@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">源来鲜</string>
+    <string name="title_activity_main">源来鲜</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_hint">用户名/手机号码</string>
+    <string name="title_activity_membermain">MembermainActivity</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="title_activity_goods">GoodsActivity</string>
+
+</resources>
